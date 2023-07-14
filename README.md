@@ -1,1 +1,1 @@
-# 2DSnakeGameMarko
+# Unity - 2D Snake Game
